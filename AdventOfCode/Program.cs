@@ -15,7 +15,7 @@ namespace AdventOfCode
 
 
 
-        private static void First()
+        private static void First_1()
         {
             var inputs= frequencyInput_first.Split('\n');
             var partials= new List<long>();
@@ -118,6 +118,11 @@ namespace AdventOfCode
                 }
             }
             Console.WriteLine("No solution found");
+        }
+
+        private static void Third_1()
+        {
+
         }
 
         private static string IDs_second= @"luojygedpvsthptkxiwnaorzmq
