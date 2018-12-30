@@ -8,8 +8,8 @@ namespace AdventOfCode
     {
         static int Main(string[] args)
         {
-            //Day_2.Second();
-            Day_3.First();
+            Day_7.First();
+            Day_7.Second();
             Console.ReadLine();
             return 1;
         }
